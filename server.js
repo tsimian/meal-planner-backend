@@ -11,7 +11,7 @@ connectDB();
 const app = express();
 
 const corsOptions = {
-  origin: ["https://meal-planner-api.onrender.com"],
+  origin: ["https://meal-planner.onrender.com", "localhost:3000"],
   credentials: true,
   optionSuccessStatus: 200,
 };
