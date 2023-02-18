@@ -1,5 +1,5 @@
 {
-  "name": "meal-planner-backend",
+  "name": "meal_planner-api",
   "version": "1.0.0",
   "description": "Back end of meal planner app",
   "main": "server.js",

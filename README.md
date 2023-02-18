@@ -1,3 +1,3 @@
-# Meal Planner back end
+# Meal Planner API
 
-This is the back end for my meal planner project. Since removal of Heroku's free tier I had been meaning to redeploy this project. I found it may be easier to seperate the front end and back end in their own repositories for deploying to Render.
+An app designed to plan meals for the week as well as store recipes for said meals in a database. This is the back end of the project, the front end can be found [here](https://github.com/tsimian/meal_planner).

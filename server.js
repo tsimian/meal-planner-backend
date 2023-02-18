@@ -11,7 +11,7 @@ connectDB();
 const app = express();
 
 const corsOptions = {
-  origin: ["https://meal-planner-0vtk.onrender.com", "http://localhost:3000"],
+  origin: ["https://mern-meal-planner.netlify.app", "http://localhost:3000"],
   credentials: true,
   optionSuccessStatus: 200,
 };
